@@ -17,6 +17,9 @@ namespace TP_Modul_07_CoffeJava
             Console.WriteLine("Nama : " + adib.nama);
             Console.WriteLine("nim: " + adib.Nim);
             Console.WriteLine("Fakultas: " + adib.Fakultas);
+
+            KuliahMahasiswa1302223110 mk = new KuliahMahasiswa1302223110();
+            mk.ReadJSON();
         }
     }
 }
