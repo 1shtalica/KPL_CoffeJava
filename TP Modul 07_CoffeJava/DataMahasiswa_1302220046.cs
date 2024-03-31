@@ -11,18 +11,28 @@ namespace TP_Modul_07_CoffeJava
 {
     public class DataMahasiswa_1302220046
     {
-        public string NamaDepan { get; set; }
-        public string NamaBelakang { get; set; }
-        public int Nim { get; set; }
-        public string Fakultas { get; set; }
+        public class MahasiswaData
+        {
+            public Nama Nama { get; set; }
+            public int Nim { get; set; }
+            public string Fakultas { get; set; }
+        }
+
+        public class Nama
+        {
+            public string Depan { get; set; }
+            public string Belakang { get; set; }
+        }
+
 
         public void ReadJSON()
         {
             string jsonData = File.ReadAllText("C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\gruppen\\KPL_CoffeJava\\TP Modul 07_CoffeJava\\tp7_1_1302220046.json");
+           
+            MahasiswaData data = JsonConvert.DeserializeObject<MahasiswaData>(jsonData);
 
-            DataMahasiswa_1302220046 data = JsonConvert.DeserializeObject<DataMahasiswa_1302220046>(jsonData);
+            Console.WriteLine($"Nama {data.Nama.Depan} {data.Nama.Belakang} dengan nim {data.Nim} dari fakultas {data.Fakultas}");
 
-            Console.WriteLine($"Nama {data.NamaDepan} {data.NamaBelakang} dengan nim {data.Nim} dari fakultas {data.Fakultas}");
         }
     }
 }

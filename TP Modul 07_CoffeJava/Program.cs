@@ -16,15 +16,23 @@ namespace TP_Modul_07_CoffeJava
         static void Main(string[] args)
         {
 
-            DataMahasiswa_1302220046 mahasiswa = new DataMahasiswa_1302220046();
+            DataMahasiswa_1302220046 dataMahasiswa = new DataMahasiswa_1302220046();
+            dataMahasiswa.ReadJSON();
 
 
-            mahasiswa.ReadJSON();
+            KuliahMahasiswa_1302220046 matakuliah = new KuliahMahasiswa_1302220046();
+            matakuliah.ReadJSON();
 
-            Console.WriteLine("Nama Depan: " + mahasiswa.NamaDepan);
-            Console.WriteLine("Nama Belakang: " + mahasiswa.NamaBelakang);
-            Console.WriteLine("NIM: " + mahasiswa.Nim);
-            Console.WriteLine("Fakultas: " + mahasiswa.Fakultas);
+            Console.WriteLine();
+            Console.WriteLine("daftar mata kuliah");
+
+            for (int i = 0; i < matakuliah.courses.Count; i++)
+            {
+                Console.WriteLine($"Code: {matakuliah.courses[i].code}");
+                Console.WriteLine($"Mata Kuliah: {matakuliah.courses[i].name}");
+            }
+
+            Console.ReadLine();
         }
     }
 }
