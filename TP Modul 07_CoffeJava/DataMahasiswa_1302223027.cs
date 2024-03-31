@@ -40,6 +40,7 @@ namespace TP_Modul_07_CoffeJava
             this.nama = data.nama;
             this.nim = data.nim;
             this.fakultas = data.fakultas;
+            
         }
 
     }
