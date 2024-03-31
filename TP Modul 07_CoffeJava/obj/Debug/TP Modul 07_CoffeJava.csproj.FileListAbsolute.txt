@@ -1,0 +1,10 @@
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe.config
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.pdb
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.dll
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.xml
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.AssemblyReference.cache
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CoreCompileInputs.cache
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CopyComplete
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe
+D:\Tugas\Tugas Kuliah\Semester 4\KPL\kelompok\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.pdb

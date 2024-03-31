@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP Modul 07_CoffeJava", "TP Modul 07_CoffeJava\TP Modul 07_CoffeJava.csproj", "{23940C0B-439B-49CA-8BE8-E4DED4571F3B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{558419B5-EA0E-4D79-912C-EC94F4D1208E}"
+	ProjectSection(SolutionItems) = preProject
+		TP Modul 07_CoffeJava\tp7_1_1302220018.json = TP Modul 07_CoffeJava\tp7_1_1302220018.json
+		TP Modul 07_CoffeJava\tp7_2_1302220018.json = TP Modul 07_CoffeJava\tp7_2_1302220018.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
