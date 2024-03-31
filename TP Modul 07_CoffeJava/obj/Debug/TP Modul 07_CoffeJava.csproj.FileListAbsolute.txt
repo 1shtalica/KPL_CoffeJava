@@ -1,21 +1,10 @@
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe.config
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.pdb
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Text.Json.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Memory.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.ValueTuple.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Text.Encodings.Web.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Buffers.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.xml
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.AssemblyReference.cache
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.SuggestedBindingRedirects.cache
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe.config
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CoreCompileInputs.cache
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul.51FB156A.Up2Date
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe
-C:\Users\rinda\OneDrive\Documents\C#\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe.config
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul.51FB156A.Up2Date
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.pdb
