@@ -10,6 +10,11 @@ namespace TP_Modul_07_CoffeJava
     {
         static void Main(string[] args)
         {
+            DataMahasiswa_1302223023 data = new DataMahasiswa_1302223023();
+            data.ReadJson();
+
+            KuliahMahasiswa_1302223023 matkul = new KuliahMahasiswa_1302223023();
+            matkul.ReadJson();
         }
     }
 }

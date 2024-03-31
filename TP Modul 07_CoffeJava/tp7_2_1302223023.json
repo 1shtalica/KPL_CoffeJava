@@ -1,0 +1,32 @@
+{
+    "courses" : [
+        {
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "A01BT4",
+			"name": "OOP"
+		},
+		{
+			"code": "BB12C5",
+			"name": "Proting"
+		},
+		{
+			"code": "CCBBDD",
+			"name": "Jarkom"
+		},
+		{
+			"code": "DDEEFF",
+			"name": "Basdat"
+		},
+		{
+			"code": "EEFFGG",
+			"name": "Pengalaman Pengguna "
+		},
+		{
+			"code": "FFGGDD",
+			"name": "Wawasan Global"
+		}
+    ]
+}
