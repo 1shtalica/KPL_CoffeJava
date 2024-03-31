@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23940C0B-439B-49CA-8BE8-E4DED4571F3B}|TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava.csproj|d:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\tp modul 07_coffejava\\tp modul 07_coffejava\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23940C0B-439B-49CA-8BE8-E4DED4571F3B}|TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava.csproj|d:\\kuliah\\tugas\\matkul\\semester 4\\konstruksi perangkat lunak\\tubes\\tp modul 07_coffejava\\tp modul 07_coffejava\\datamahasiswa_1302223110.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23940C0B-439B-49CA-8BE8-E4DED4571F3B}|TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava.csproj|solutionrelative:tp modul 07_coffejava\\datamahasiswa_1302223110.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23940C0B-439B-49CA-8BE8-E4DED4571F3B}|TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava.csproj|D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\tp modul 07_coffejava\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23940C0B-439B-49CA-8BE8-E4DED4571F3B}|TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava.csproj|solutionrelative:tp modul 07_coffejava\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataMahasiswa_1302223110.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava\\DataMahasiswa_1302223110.cs",
+              "RelativeDocumentMoniker": "TP Modul 07_CoffeJava\\DataMahasiswa_1302223110.cs",
+              "ToolTip": "D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava\\DataMahasiswa_1302223110.cs",
+              "RelativeToolTip": "TP Modul 07_CoffeJava\\DataMahasiswa_1302223110.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:32:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava\\Program.cs",
               "RelativeDocumentMoniker": "TP Modul 07_CoffeJava\\Program.cs",
               "ToolTip": "D:\\Kuliah\\Tugas\\MATKUL\\Semester 4\\Konstruksi Perangkat Lunak\\TUBES\\TP Modul 07_CoffeJava\\TP Modul 07_CoffeJava\\Program.cs",
               "RelativeToolTip": "TP Modul 07_CoffeJava\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T07:44:43.669Z",
               "EditorCaption": ""
