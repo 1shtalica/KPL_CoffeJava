@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe.config
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.pdb
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.AssemblyReference.cache
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CoreCompileInputs.cache
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul.51FB156A.Up2Date
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe
+D:\Kuliah\Tugas\MATKUL\Semester 4\Konstruksi Perangkat Lunak\TUBES\TP Modul 07_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.pdb
+=======
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.AssemblyReference.cache
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\bin\Debug\TP Modul 07_CoffeJava.exe.config
@@ -8,3 +20,4 @@ C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_Coffe
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul.51FB156A.Up2Date
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.exe
 C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\gruppen\KPL_CoffeJava\TP Modul 07_CoffeJava\obj\Debug\TP Modul 07_CoffeJava.pdb
+>>>>>>> 7a5be4432bde733b49943e960e7cd8ec67404903
